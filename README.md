@@ -27,4 +27,5 @@ A atividade foi realizada  com a criação e o preenchimento das duas tabelas se
 ## Pré-requisitos
 Sql Online
 
-Isabela Queiroz Ferreira RA: 236858
+> [!IMPORTANT]
+> Isabela Queiroz Ferreira RA: 236858
