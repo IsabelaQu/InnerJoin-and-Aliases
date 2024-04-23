@@ -26,7 +26,7 @@ A atividade foi realizada  com a criação e o preenchimento das duas tabelas se
 
 ## Pré-requisitos
 Sql Online 
-[![Sql Online: Sql Online](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)]
+[![Sql Online: Sql Online](Sql Online)]
 <br/>
 
 > [!IMPORTANT]
