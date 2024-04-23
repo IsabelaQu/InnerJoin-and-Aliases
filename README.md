@@ -1,6 +1,6 @@
 ## Exercicio: Alunos e Cidades - INNER JOIN E ALIASES
 
-## Atividade individual - Tema: Alunos e Cidades (INNER JOIN E ALIASES)
+## Alunos e Cidades
 
 Crie duas tabelas conforme o modelo apresentado nos slides 21 e 22, deste material;
 Preste atenção aos campos que estão no exemplo;
