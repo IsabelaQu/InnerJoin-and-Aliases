@@ -27,7 +27,7 @@ A atividade foi realizada  com a criação e o preenchimento das duas tabelas se
 ## Pré-requisitos
 Sql Online 
 
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Sql Online" src="[https://sqliteonline.com]"></a>
+
 <br/>
 
 > [!IMPORTANT]
