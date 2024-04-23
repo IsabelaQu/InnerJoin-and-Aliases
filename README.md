@@ -4,17 +4,17 @@
 
 > Crie duas tabelas conforme o modelo apresentado nos slides 21 e 22, deste material;
 
-> Preste atenção aos campos que estão no exemplo;
+ Preste atenção aos campos que estão no exemplo;
 
-> Insira os valores conforme os slides;
+ Insira os valores conforme os slides;
 
-> Aplique o exemplo sobre inner join dado no slide 26, deste material;
+ Aplique o exemplo sobre inner join dado no slide 26, deste material;
 
-> Crie um repositório remoto e envie o script em SQL;
+ Crie um repositório remoto e envie o script em SQL;
 
-> Produza o Readme do repositório remoto e tire um print da tela após o término da atividade;
+ Produza o Readme do repositório remoto e tire um print da tela após o término da atividade;
 
-> Coloque comentários em seu código.
+ Coloque comentários em seu código.
 
 
 ## Descrição da Atividade
